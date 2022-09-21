@@ -2,9 +2,9 @@
 - Document here the project: HelsinkiCityBikes
 - Description: Project Description
 - Data Source: https://www.kaggle.com/code/geometrein/helsinki-city-bike-network-analysis/data
-- Type of analysis: Advanced EDA 
+- Type of analysis: Advanced EDA
 
-Please document the project the better you can.
+An advanced analysis of the Kaggle Helsinki City Bikes Dataset which includes ride time distrubution, hourly departure locations, temperature analysis, top pickup and drop-off locations, and total rides per day of the week.
 
 # Startup the project
 
