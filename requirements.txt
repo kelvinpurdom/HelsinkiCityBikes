@@ -8,6 +8,10 @@ wheel>=0.29
 numpy
 pandas
 scikit-learn
+folium
+seaborn
+matplotlib
+
 
 # tests/linter
 black
