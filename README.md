@@ -1,6 +1,5 @@
 # Data analysis
 - Document here the project: HelsinkiCityBikes
-- Description: Project Description
 - Data Source: https://www.kaggle.com/code/geometrein/helsinki-city-bike-network-analysis/data
 - Type of analysis: Advanced EDA
 
