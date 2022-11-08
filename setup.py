@@ -8,7 +8,7 @@ requirements = [x.strip() for x in content if 'git+' not in x]
 
 setup(name='HelsinkiCityBikes',
       version="1.0",
-      description="Project Description",
+      description="Basic EDA of dataset from Kaggle",
       packages=find_packages(),
       install_requires=requirements,
       test_suite='tests',
