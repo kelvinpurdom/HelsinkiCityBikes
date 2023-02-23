@@ -5,6 +5,9 @@
 
 An advanced analysis of the Kaggle Helsinki City Bikes Dataset which includes ride time distrubution, hourly departure locations, temperature analysis, top pickup and drop-off locations, and total rides per day of the week.
 
+![test](departstation.png)
+![test](heatmap.png)
+
 # Startup the project
 
 The initial setup.
